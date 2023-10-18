@@ -1,1 +1,5 @@
-// Solve the challenge in this JavaScript file
+/* eslint-disable prettier/prettier */
+const magic = () => {
+    return new Date();
+  };
+  
