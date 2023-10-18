@@ -2,9 +2,9 @@
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- javascript
+  - functions
+    -variables
 
 ## Live Demo
 
@@ -15,7 +15,7 @@
 - Clone the project
 
 ```bash
-git clone https://github.com/user/js-template.git
+git clone git@github.com:abdulsomod1/Odin-dashbord.git
 
 ```
 
@@ -80,9 +80,9 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@author](https://github.com/abdulsomod1)
+- Twitter: [@author](https://twitter.com/codingcoding1)
+- Linkedin: [@author](https://www.linkedin.com/in/abdulsomod1/)
 
 ## 🤝 Contributing
 
